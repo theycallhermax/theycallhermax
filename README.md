@@ -1,3 +1,4 @@
+![M.D.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwalters75&show_icons=true)
 - 👋 Hi, I’m @Mwalters75
 - 👀 I’m interested in HTML, JavaScript, and CSS
 - 🌱 I’m currently learning JavaScript (it's hard!)
