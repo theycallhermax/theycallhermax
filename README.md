@@ -1,10 +1,6 @@
+# About
+Hey, I'm M.D.! I code stuff that goes into the trash burner when I'm finished coding it, but I code anyway.
+# Stats
 ![M.D.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwalters75&show_icons=true)
 
-<sup>Please don't ask why mdwalters.ml is nothing.</sup>
-<!--
-- 👋 Hi, I’m @Mwalters75
-- 👀 I’m interested in HTML, JavaScript, and CSS
-- 🌱 I’m currently learning JavaScript (it's hard!)
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me: Mention me on Twitter and Medium using my Twitter username, @MDWalters124, and my Medium username, @mdwalters 
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwalters75&langs_count=50&layout=compact)
