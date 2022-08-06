@@ -3,4 +3,4 @@ Hey, I'm M.D.! I code stuff that goes into the trash burner when I'm finished co
 # Stats
 ![M.D.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwalters75&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwalters75&langs_count=50&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mwalters75&langs_count=50)
