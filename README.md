@@ -7,6 +7,6 @@ Hey, I'm M.D.! I code stuff that goes into the trash burner when I'm finished co
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mdwalters)
 ## Skills
-![Skills](https://skillicons.dev/icons?i=vscode,linux,gtk,bootstrap,js,github,python,nodejs,git,html,vala,svelte,cloudflare,discord,twitter,css,md,bash,figma,ts)
+![Skills](https://skillicons.dev/icons?i=gtk,bootstrap,js,python,nodejs,html,vala,svelte,css,md,bash,ts)
 # Other
 - [Please give me a Internet](http://internetometer.com/give/48831)
